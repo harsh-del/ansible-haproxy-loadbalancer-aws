@@ -1,0 +1,6 @@
+[proxy]
+13.235.91.83  ansible_connection=ssh
+
+[node]
+13.127.185.230   ansible_connection=ssh
+65.0.30.77   ansible_connection=ssh
